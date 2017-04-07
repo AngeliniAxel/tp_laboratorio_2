@@ -28,21 +28,34 @@ namespace WindowsFormsCalculadora
 
         #region Eventos
 
+        /// <summary>
+        /// Carga el texto escrito por el usuario en la variable numUno
+        /// </summary>
         private void txtNumero1_TextChanged(object sender, EventArgs e)
         {
             numUno = new Numero(this.txtNumero1.Text);
         }
 
+        /// <summary>
+        /// Carga el texto escrito por el usuario en la variable numDos
+        /// </summary>
         private void txtNumero2_TextChanged(object sender, EventArgs e)
         {
             numDos = new Numero(this.txtNumero2.Text);
         }
 
+        /// <summary>
+        /// Carga el signo seleccionado por el usuario en la variable del mismo tipo llamada operador
+        /// </summary>
         private void cmbOperacion_SelectedIndexChanged(object sender, EventArgs e)
         {
             operador = this.cmbOperacion.Text;
         }
 
+        /// <summary>
+        /// Carga el resultado de operacion entre txtNumero1 y txtNumero2 en la variable del mismo nombre
+        /// En caso de divisor=0 muestra mensaje de error
+        /// </summary>
         private void btnOperar_Click(object sender, EventArgs e)
         {
             resultado = new Numero(Calculadora.operar(numUno, numDos, operador));
@@ -52,6 +65,9 @@ namespace WindowsFormsCalculadora
                 MessageBox.Show("No se pude dividir por 0!", "ERROR!!!", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
+        /// <summary>
+        /// Carga todas las variables en 0 y borra todos los textos ingresados por el usuario
+        /// </summary>
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             numUno = new Numero();

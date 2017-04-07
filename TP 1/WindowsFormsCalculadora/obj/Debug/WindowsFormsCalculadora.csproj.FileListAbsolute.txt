@@ -10,3 +10,13 @@ C:\Users\axela\Desktop\2do intento\TP.Calculadora\WindowsFormsCalculadora\bin\De
 C:\Users\axela\Desktop\2do intento\TP.Calculadora\WindowsFormsCalculadora\bin\Debug\LibreriaDeClases.pdb
 C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1 (Calculadora)\WindowsFormsCalculadora\obj\Debug\WindowsFormsCalculadora.exe
 C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1 (Calculadora)\WindowsFormsCalculadora\obj\Debug\WindowsFormsCalculadora.pdb
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\WindowsFormsCalculadora\obj\Debug\WindowsFormsCalculadora.exe
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\WindowsFormsCalculadora\obj\Debug\WindowsFormsCalculadora.pdb
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\WindowsFormsCalculadora\bin\Debug\WindowsFormsCalculadora.exe
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\WindowsFormsCalculadora\bin\Debug\WindowsFormsCalculadora.pdb
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\WindowsFormsCalculadora\bin\Debug\LibreriaDeClases.dll
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\WindowsFormsCalculadora\bin\Debug\LibreriaDeClases.pdb
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\WindowsFormsCalculadora\obj\Debug\WindowsFormsCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\WindowsFormsCalculadora\obj\Debug\WindowsFormsCalculadora.Form1.resources
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\WindowsFormsCalculadora\obj\Debug\WindowsFormsCalculadora.Properties.Resources.resources
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\WindowsFormsCalculadora\obj\Debug\WindowsFormsCalculadora.csproj.GenerateResource.Cache

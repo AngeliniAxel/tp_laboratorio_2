@@ -7,3 +7,10 @@ C:\Users\axela\Desktop\2do intento\TP.Calculadora\LibreriaDeClases\bin\Debug\Cal
 C:\Users\axela\Desktop\2do intento\TP.Calculadora\LibreriaDeClases\bin\Debug\Numero.dll
 C:\Users\axela\Desktop\2do intento\TP.Calculadora\LibreriaDeClases\bin\Debug\Calculadora.pdb
 C:\Users\axela\Desktop\2do intento\TP.Calculadora\LibreriaDeClases\bin\Debug\Numero.pdb
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\LibreriaDeClases\bin\Debug\LibreriaDeClases.dll
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\LibreriaDeClases\bin\Debug\LibreriaDeClases.pdb
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\LibreriaDeClases\bin\Debug\Calculadora.pdb
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\LibreriaDeClases\bin\Debug\Numero.pdb
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\LibreriaDeClases\obj\Debug\LibreriaDeClases.csprojResolveAssemblyReference.cache
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\LibreriaDeClases\obj\Debug\LibreriaDeClases.dll
+C:\Users\axela\OneDrive\Documentos\GitHub\tp_laboratorio_2\TP 1\LibreriaDeClases\obj\Debug\LibreriaDeClases.pdb

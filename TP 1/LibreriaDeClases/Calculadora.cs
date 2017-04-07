@@ -9,6 +9,11 @@ namespace LibreriaDeClases
     {
         #region Metodos
 
+        /// <summary>
+        /// Valida que el operador sea uno de los permitidos
+        /// </summary>
+        /// <param name="operador">Recibe el string a validar</param>
+        /// <returns>Retorna el operador seleccionado, en caso de error, retorna "+"</returns>
         public static string validarOperador(string operador)
         {
             string retorno;
@@ -20,6 +25,13 @@ namespace LibreriaDeClases
             return retorno;
         }
 
+        /// <summary>
+        /// Realiza operacion matematica entre dos objetos de clase Numero
+        /// </summary>
+        /// <param name="numeroUno">Recibe primer numero a operar</param>
+        /// <param name="numeroDos">Recibe segundo numero a operar</param>
+        /// <param name="operador">Recibe signo de la operacion</param>
+        /// <returns>Retorna double con valor del resultado, en caso de error retorna 0</returns>
         public static double operar(Numero numeroUno, Numero numeroDos, string operador)
         {
             double resultado = 0;
@@ -57,19 +69,6 @@ namespace LibreriaDeClases
                     break;
 
             }
-
-            //if (operador == "+")
-            //    resultado = num1 + num2;
-
-            //else if (operador == "-")
-            //    resultado = num1 - num2;
-
-            //else if (operador == "*")
-            //    resultado = num1 * num2;
-
-            //else if (operador == "/")
-            //{ }
-
             return resultado;
         }
 
