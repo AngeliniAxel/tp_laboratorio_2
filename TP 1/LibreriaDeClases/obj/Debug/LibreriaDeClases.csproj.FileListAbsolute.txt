@@ -1,0 +1,9 @@
+C:\Users\axela\Desktop\2do intento\TP.Calculadora\LibreriaDeClases\bin\Debug\LibreriaDeClases.dll
+C:\Users\axela\Desktop\2do intento\TP.Calculadora\LibreriaDeClases\bin\Debug\LibreriaDeClases.pdb
+C:\Users\axela\Desktop\2do intento\TP.Calculadora\LibreriaDeClases\obj\Debug\LibreriaDeClases.csprojResolveAssemblyReference.cache
+C:\Users\axela\Desktop\2do intento\TP.Calculadora\LibreriaDeClases\obj\Debug\LibreriaDeClases.dll
+C:\Users\axela\Desktop\2do intento\TP.Calculadora\LibreriaDeClases\obj\Debug\LibreriaDeClases.pdb
+C:\Users\axela\Desktop\2do intento\TP.Calculadora\LibreriaDeClases\bin\Debug\Calculadora.dll
+C:\Users\axela\Desktop\2do intento\TP.Calculadora\LibreriaDeClases\bin\Debug\Numero.dll
+C:\Users\axela\Desktop\2do intento\TP.Calculadora\LibreriaDeClases\bin\Debug\Calculadora.pdb
+C:\Users\axela\Desktop\2do intento\TP.Calculadora\LibreriaDeClases\bin\Debug\Numero.pdb
