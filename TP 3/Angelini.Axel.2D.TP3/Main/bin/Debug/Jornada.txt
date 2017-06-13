@@ -1,0 +1,69 @@
+CLASE DE Programacion POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 1
+
+CLASES DEL DIA: 
+Legislacion
+Programacion
+
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 1
+
+ESTADO DE CUENTA: Becado
+TOMA CLASE DE Programacion
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 5
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASE DE Programacion
+
+CLASE DE Programacion POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 1
+
+CLASES DEL DIA: 
+Programacion
+Legislacion
+
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 1
+
+ESTADO DE CUENTA: Becado
+TOMA CLASE DE Programacion
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 5
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASE DE Programacion
+
+CLASE DE Laboratorio POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 1
+CLASES DEL DIA: 
+Laboratorio
+Laboratorio
+
+ALUMNOS:
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+LEGAJO NUMERO: 7
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASE DE Laboratorio
+

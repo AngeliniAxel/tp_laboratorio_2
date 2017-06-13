@@ -1,0 +1,27 @@
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\UniversidadUnitTest.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\UniversidadUnitTest.pdb
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\EntidadesAbstractas.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\EntidadesInstanciables.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\Excepciones.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\Archivo.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\Excepciones.pdb
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\Archivo.pdb
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\obj\Debug\UniversidadUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\obj\Debug\UniversidadUnitTest.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\obj\Debug\UniversidadUnitTest.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\UniversidadUnitTest.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\UniversidadUnitTest.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\EntidadesAbstractas.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\EntidadesInstanciables.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\Excepciones.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\Archivo.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\EntidadesAbstractas.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\EntidadesInstanciables.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\Excepciones.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\bin\Debug\Archivo.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\obj\Debug\UniversidadUnitTest.csprojResolveAssemblyReference.cache
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\obj\Debug\UniversidadUnitTest.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\UniversidadUnitTest\obj\Debug\UniversidadUnitTest.pdb

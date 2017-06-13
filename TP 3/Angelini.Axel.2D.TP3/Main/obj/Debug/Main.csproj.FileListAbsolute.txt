@@ -1,0 +1,28 @@
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\Main.exe
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\Main.pdb
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\EntidadesAbstractas.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\EntidadesInstanciables.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Main\obj\Debug\Main.exe
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Main\obj\Debug\Main.pdb
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\Archivo.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\Archivo.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\Main.exe
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\Main.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\EntidadesAbstractas.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\EntidadesInstanciables.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\Excepciones.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\Archivo.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\EntidadesAbstractas.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\EntidadesInstanciables.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\Excepciones.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Main\bin\Debug\Archivo.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Main\obj\Debug\Main.exe
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Main\obj\Debug\Main.pdb
+C:\Users\axela\Desktop\Final\Angelini.Axel.2D.TP3\Main\obj\Debug\Main.exe
+C:\Users\axela\Desktop\Final\Angelini.Axel.2D.TP3\Main\obj\Debug\Main.pdb

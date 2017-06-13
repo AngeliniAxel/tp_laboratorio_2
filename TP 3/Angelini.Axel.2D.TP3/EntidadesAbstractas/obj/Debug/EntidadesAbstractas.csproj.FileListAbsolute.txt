@@ -1,0 +1,14 @@
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

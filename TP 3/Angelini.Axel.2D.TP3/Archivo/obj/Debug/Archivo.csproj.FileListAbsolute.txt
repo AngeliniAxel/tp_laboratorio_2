@@ -1,0 +1,14 @@
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Archivo\bin\Debug\Archivo.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Archivo\bin\Debug\Archivo.pdb
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Archivo\bin\Debug\Excepciones.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Archivo\bin\Debug\Excepciones.pdb
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Archivo\obj\Debug\Archivo.csprojResolveAssemblyReference.cache
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Archivo\obj\Debug\Archivo.dll
+C:\Users\axela\Desktop\TP333333\Angelini.Axel.2D.TP3\Archivo\obj\Debug\Archivo.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Archivo\bin\Debug\Archivo.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Archivo\bin\Debug\Archivo.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Archivo\bin\Debug\Excepciones.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Archivo\bin\Debug\Excepciones.pdb
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Archivo\obj\Debug\Archivo.csprojResolveAssemblyReference.cache
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Archivo\obj\Debug\Archivo.dll
+F:\Para TP3\TP333333\Angelini.Axel.2D.TP3\Archivo\obj\Debug\Archivo.pdb
